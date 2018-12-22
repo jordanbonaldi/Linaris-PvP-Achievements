@@ -1,0 +1,4 @@
+main: net.theuniverscraft.PvpAchievements.PvpAchievements
+name: PvpAchievements
+version: 0.1
+depend: [PointsManager]
